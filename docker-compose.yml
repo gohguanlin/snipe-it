@@ -5,8 +5,12 @@ volumes:
   storage:
 
 services:
-  app:
-    image: snipe/snipe-it:${APP_VERSION:-v7.0.11}
+  snipeit:
+    # image: snipe/snipe-it:${APP_VERSION:-v7.0.11}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: snipe-it
     restart: unless-stopped
     volumes:
       - storage:/var/lib/snipeit
@@ -18,6 +22,17 @@ services:
         restart: true
     env_file:
       - .env
+
+  nginx:
+    container_name: snipe-it-nginx
+    image: "nginx:latest"
+    restart: unless-stopped
+    ports:
+      - "5085:5085"
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+    depends_on:
+      - snipeit
 
   db:
     image: mariadb:11.5.2
