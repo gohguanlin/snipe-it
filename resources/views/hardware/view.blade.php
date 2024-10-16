@@ -27,7 +27,7 @@
                         [
                             'warning' => trans('admin/hardware/message.warning_audit_date_mismatch',
                                     [
-                                        'last_audit_date' => Helper::getFormattedDateObject($asset->last_audit_date, 'date', false),
+                                        'last_audit_date' => Helper::getFormattedDateObject($asset->last_audit_date, 'datetime', false),
                                         'next_audit_date' => Helper::getFormattedDateObject($asset->next_audit_date, 'date', false)
                                     ]
                                     )
@@ -255,11 +255,16 @@
 
                                 @can('delete', $asset)
                                     <div class="col-md-12 hidden-print" style="padding-top: 30px; padding-bottom: 30px;">
+
                                         @if ($asset->deleted_at=='')
                                             <button class="btn btn-sm btn-block btn-danger btn-social delete-asset" data-toggle="modal" data-title="{{ trans('general.delete') }}" data-content="{{ trans('general.sure_to_delete_var', ['item' => $asset->asset_tag]) }}" data-target="#dataConfirmModal">
 
                                                 <x-icon type="delete" />
-                                                {{ trans('general.delete') }}
+                                                @if ($asset->assignedTo)
+                                                    {{ trans('general.checkin_and_delete') }}
+                                                @else
+                                                    {{ trans('general.delete') }}
+                                                @endif
                                             </button>
                                             <span class="sr-only">{{ trans('general.delete') }}</span>
                                         @else
@@ -493,7 +498,7 @@
                                             </div>
                                             <div class="col-md-9">
                                                 {!! $asset->checkInvalidNextAuditDate() ? '<i class="fas fa-exclamation-triangle text-orange" aria-hidden="true"></i>' : '' !!}
-                                                {{ Helper::getFormattedDateObject($audit_log->created_at, 'date', false) }}
+                                                {{ Helper::getFormattedDateObject($audit_log->created_at, 'datetime', false) }}
                                                 @if ($audit_log->user)
                                                     (by {{ link_to_route('users.show', $audit_log->user->present()->fullname(), [$audit_log->user->id]) }})
                                                 @endif

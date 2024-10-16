@@ -1,0 +1,174 @@
+﻿Company,Asset Name,Asset Tag,Serial Number,Model,Model No.,Category,Status,Checked Out To: Username,Checked Out To: Full Name,Location,Manufacturer,Warranty,Purchase Date,IP Address,MAC Address,Intune Enrolled,Manage Engine,Product ID,Windows OS,RAM (GB),Storage Capacity (GB)
+DCS,G10 (31),DNF-C00329,5CG3471FQG,HP G10,840 G10,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.0.210,28:C5:D2:83:FB:A8,No,No,,11,16,500
+DCS,G8,DNF-C00289,5CG2030Z45,HP G8,840 G8,Laptops,Deployed,guanlin,Goh Guan Lin,Singapore Discovery Centre,HP,36,"December 20, 2022",192.168.1.15,F0:B6:1E:8B:63:B6,Yes,No,26D62AV,11,24,500
+DCS,G8,N/A-1,5CG2030Y3K,HP G8,840 G8,Laptops,Deployed,joseph_tan,Joseph Tan Boon Kiat,Singapore Discovery Centre,HP,36,"December 15, 2022",,,No,Yes,26D62AV,11,32 (2/2),500
+DCS,G8,*00002255*,5CG20870HH,HP G8,840 G8,Laptops,Deployed,yueweng_leong,Leong Yue Weng,Singapore Discovery Centre,HP,36,"October 12, 2022",,,No,Yes,4K2L3PA,11,16 (1/2),500
+DCS,G10 (31),DNF-C00339,5CG3471FQQ,HP G10,840 G10,Laptops,Deployed,darren_ler,Darren Ler,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.1.216,28:C5:D2:84:1D:9F ,No,No,9E3Y7PT,11,16 (1/2),500
+DCS,G5,*00000535*,5CG9184K6Z,HP G5,840 G5,Laptops,Deployed,cafren_kang,Cafren Kang,Singapore Discovery Centre,HP,36,"July 05, 2019",,,No,Yes, 2FA68AV,10,8 (1/2),500
+DCS,G8 (33),N/A-2,NIL1,HP G8,840 G8,Laptops,Deployed,cafren_kang,Cafren Kang,Singapore Discovery Centre,HP,36,"December 19, 2022",,,No,Yes,26D62AV,11,16 (1/2),500
+DCS,G10 (31),DNF-C00320,5CG3471FQC,HP G10,840 G10,Laptops,Deployed,ganjuen_awyoung,Aw Young Gan Juen,Singapore Discovery Centre,HP,36,"March 10, 2024",,,No,Yes,9E3Y7PT,11,16 (1/2),500
+DCS,G6,DNF-C00003,5CG0106GNP,HP G6,840 G6,Laptops,Deployed,catherine,Catherine P. Kalaychelvi,Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,Yes,4WG28AV,,16,500
+DCS,G5,*00000531*,5CG90100XG,HP G5,840 G5,Laptops,Deployed,yansen_tan,Tan Yan Sen,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,16,250
+DCS,G10 (31),DNF-C00341,5CG3471FQ4,HP G10,840 G10,Laptops,Deployed,yansen_tan,Tan Yan Sen,Singapore Discovery Centre,HP,36,"March 08, 2024",192.168.0.135,28:C5:D2:83:EE:01 ,Yes,Yes,9E3Y7PT,,16(1/2),500
+DCS,G6,DNF-C00056,5CG0329TMT,HP G6,840 G6,Laptops,Deployed,sherry_lim,Sherry Lim,Singapore Discovery Centre,HP,36,"February 01, 2021",,,No,Yes,4WG18AV,,16,500
+DCS,G5,*00000534*,5CG90100Y3,HP G5,840 G5,Laptops,Deployed,elaine_ng,Elaine Ng,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,16,500
+DCS,G8 (33),DNF-C00300,5CG2030YV9,HP G8,840 G8,Laptops,Deployed,elaine_ng,Elaine Ng,Singapore Discovery Centre,HP,36,"February 19, 2022",192.168.0.40,F0:B6:1E:89:F6:0C,No,Yes,4K2L3PA,,16(1/2),500
+DCS,G10 (31),DNF-C00322,5CG3471FQN,HP G10,840 G10,Laptops,Deployed,desmond_tan,Desmond Tan Yiang Ter,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G8,*00002257*,5CG20870H2,HP G8,840 G8,Laptops,Deployed,sally_yeo,Sally Yeo,Singapore Discovery Centre,HP,36,"July 27, 2022",,,Yes,Yes,4K2L3PA,,16,500
+DCS,G8,N/A-3,5CG2030YWG,HP G8,840 G8,Laptops,Deployed,kavitha,Ramalingam Ponnammal (kavitha),Singapore Discovery Centre,HP,36,"December 20, 2022",192.168.1.67,F0:B6:1E:86:DC:65,Yes,Yes,26D62AV,,16,500
+DCS,G6,N/A-4,5CG0106GNL,HP G6,840 G6,Laptops,Deployed,dyann_kueh,Dyann Kueh Lisze,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,16,500
+DCS,G6,N/A-5,5CG0106GNM,HP G6,840 G6,Laptops,Deployed,yenyen_low,"Low Yen Yen	",Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,16,500
+DCS,G5,*00000524*,5CG90100ZC,HP G5,840 G5,Laptops,Deployed,,Ong Rui (Contract),Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,Yes,2FA68AV,,8,500
+DCS,G6,N/A-6,5CG0106GP8,HP G6,840 G6,Laptops,Deployed,,DCS Procurement (Intern),Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,Yes,4WG28AV,,16,500
+DCS,G8 (33),DNF-C00306,5CG2030X8H,HP G8,840 G8,Laptops,Deployed,hairani_joshi,Hariani Joshi,Singapore Discovery Centre,HP,36,"December 14, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G8 (33),N/A-7,5CG2030Z4L,HP G8,840 G8,Laptops,Deployed,cyndi_koh,Cyndi Koh,Singapore Discovery Centre,HP,36,"December 15, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G6,DNF-C00155,5CG0329TMQ,HP G6,840 G6,Laptops,Deployed,cyndi_koh,Cyndi Koh,Singapore Discovery Centre,HP,36,"August 19, 2020",192.168.0.8,CC:D9:AC:BD:37:60,No,No,4WG18AV,11,8,500
+DCS,G8 (33),N/A-8,5CG2030Z4R,HP G8,840 G8,Laptops,Deployed,jenevieve_kok,Jenevieve Kok,Singapore Discovery Centre,HP,36,"December 19, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G5,*00000517*,5CG90100YL,HP G5,840 G5,Laptops,Deployed,joshua_lim,Joshua Lim,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,8,500
+DCS,G8,*00000258*,5CG20870HK,HP G8,840 G8,Laptops,Deployed,nurhanan_farid,Nurhanan Binte Muhammad Farid Bin Abdul Rahim,Singapore Discovery Centre,HP,36,"May 09, 2022",192.168.1.238,C4:BD:E5:93:27:81,Yes,No,4K2L3PA,,16,500
+DCS,G10 (31),DNF-C00315,5CG3471FQJ,HP G10,840 G10,Laptops,Deployed,jeslyn_pang,Jeslyn Pang,Singapore Discovery Centre,HP,36,"March 08, 2024",,,No,No,9E3Y7PT,11,16(1/2),500
+DCS,G6,DNF-C00020,5CG0092H18,HP G6,840 G6,Laptops,Deployed,lydia_chan,Lydia Chan,Singapore Discovery Centre,HP,36,"March 18, 2020",,,No,Yes,4WG28AV,,16,500
+DCS,G8,DNF-C00287,5CG2030YJ0,HP G8,840 G8,Laptops,Deployed,hanna_lim,Hanna Lim,Singapore Discovery Centre,HP,36,"December 19, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G6,DNF-C00024,5CG0106GP4,HP G6,840 G6         ,Laptops,Deployed,cheryl_lam,Cheryl Lam,Singapore Discovery Centre,HP,36,"May 07, 2020",192.168.1.97,84:C5:A6:33:D8:94,No,Yes,4WG28AV,,16(2/2),500
+DCS,G3,*00000479*,5CG70947SB,HP G3,840 G3,Laptops,Deployed,yeejoo_peh,Peh Yee Joo,Singapore Discovery Centre,HP,36,"February 19, 2022",,,No,No,P4F83PT,,8,500
+DCS,G10 (31),DNF-C00327,5CG3506P2S,HP G10,840 G10,Laptops,Deployed,yeejoo_peh,Peh Yee Joo,Singapore Discovery Centre,HP,36,"May 04, 2020",192.168.1.186,F0:20:FF:CC:B4:97,No,Yes,9E3Y7PT,,16(1/2),500
+DCS,G8 (33),N/A-9,5CG2030X9F,HP G8,840 G8,Laptops,Deployed,diane_lee,Diane Lee,Singapore Discovery Centre,HP,36,"March 10, 2024",,,Yes,Yes,26D62AV,,16,500
+DCS,G8 (33),N/A-10,5CG2030ZGR,HP G8,840 G8 ,Laptops,Deployed,zaki_ishaak,Sheik Mohammad Zaki Bin Isha’ak,Singapore Discovery Centre,HP,36,"December 20, 2022",,,Yes,No,26D62AV,,16,500
+DCS,G10 (31),DNF-C00323,5CG3471FPX,HP G10,840 G10,Laptops,Deployed,waikuen_chan,Chan Wai Kuen,Singapore Discovery Centre,HP,36,"December 19, 2022",,,Yes,No,9E3Y7PT,11,16(1/2),500
+DCS,G8 (33),DNF-C00307,5CG2030ZHG,HP G8,840 G8,Laptops,Deployed,jingyi_fok,Fok Jing Yi,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.1.146,F0:B6:1E:88:9E:A1,Yes,No,4K2L3PA,,16(1/2),500
+DCS,G8,*00002253*,5CG20870HJ,HP G8,840 G8,Laptops,Deployed,charmaine_lappen,Charmaine Lappen,Singapore Discovery Centre,HP,36,"April 28, 2022",,,No,Yes,4K2L3PA,,16,500
+DCS,G8,DNF-C00034,5CG1324WQ6,HP G8,840 G8,Laptops,Deployed,muhamad_shaiful,Muhamad Shaiful Nizam Bin Shafie,Singapore Discovery Centre,HP,36,"March 09, 2022",,,No,Yes,19X36AV,,8,500
+DCS,G6,N/A-11,5CG0329TMR,HP G6,840 G6,Laptops,Deployed,farah_aqila,Farah Aqila,Singapore Discovery Centre,HP,36,"January 22, 2021",,,No,Yes,4WG18AV,,8,500
+DCS,G5,N/A-12,5CG90100YJ,HP G5,840 G5,Laptops,Deployed,nurhidayah_jamaris,Nurhidayah Binte Mohamed Jamaris,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No, 2FA68AV,,8,500
+DCS,G6,N/A-13,5CG0092H19,HP G6,840 G6,Laptops,Deployed,esther_wong,Esther Wong,Singapore Discovery Centre,HP,36,"March 20, 2020",,,No,No,4WG28AV,,16,500
+DCS,G6,DNF-C00009,5CG0106GP2,HP G6,840 G6,Laptops,Deployed,hizwani_hasni,Hizwani Hasni,Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,Yes,4WG28AV,,8,500
+DCS,G8,DNF-C00290,5CG2030YWC,HP G8,840 G8,Laptops,Deployed,yuki_wee,Yuki Wee Rong Ting,Singapore Discovery Centre,HP,36,"December 20, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G10 (31),DNF-C00331,5CG3471FQD,HP G10,840 G10,Laptops,Deployed,nasha_wahyuni,Nur Nasha Wahyuni Binte Mohamed Irham,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G8,DNF-C00031,5CG1324WQ9,HP G8,840 G8,Laptops,Ready to Deploy,katirina_maria,Katirina Maria,Singapore Discovery Centre,HP,36,"January 16, 2022",192.168.1.197,20:1E:88:14:D7:DC,Yes,No,19X36AV,,16(2/2),500
+DCS,G5,*00000527*,5CG90100YZ,HP G5,840 G5,Laptops,Deployed,geraldine_loh,Geraldine Loh,Singapore Discovery Centre,HP,36,"January 10, 2019",192.168.0.94,B0:0C:D1:40:13:81,No,Yes,2FA68AV,,8,500
+DCS,G6,DNF-C00021,5CG02106YM,HP G6,840 G6,Laptops,Deployed,june_chng,June Chng,Singapore Discovery Centre,HP,36,"May 26, 2020",,,No,No,4WG28AV,11,16(2/2),500
+DCS,G10 (31),DNF-C00324,5CG3471FPY,HP G10,840 G10,Laptops,Deployed,rongjie_teo,Teo Rong Jie,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.0.232,28:C5:D2:84:1D:A9,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G6,DNF-C00046,5CG0092H1C,HP G6,840 G6,Laptops,Deployed,seekei_kwok,Kwok See Kei,Singapore Discovery Centre,HP,36,"March 18, 2020",,,Yes,Yes,4WG28AV,,8,500
+DCS,G8,*00002252*,5CG20870GV,HP G8,840 G8,Laptops,Deployed,rury_nurziana,Rury Nurziana,Singapore Discovery Centre,HP,36,"April 05, 2022",,,Yes,Yes,4K2L3PA,11,64(Custom),1000 (Custom)
+DCS,G8 (33),N/A-14,5CG2030YVQ,HP G8,840 G8,Laptops,Deployed,hasif_ahmad,Ahmad Hasif Bin Mohammad Amran,Singapore Discovery Centre,HP,36,"December 14, 2022",192.168.1.212,F0:B6:1E:89:F3:4B,Yes,Yes,26D62AV,11,16,500
+DCS,G6,N/A-15,5CG0092H1B,HP G6,840 G6,Laptops,Deployed,chelsey_teo,Chelsey Teo Si Jie,Singapore Discovery Centre,HP,36,"March 18, 2020",,,No,Yes,4WG28AV,,16,500
+DCS,G6,DNF-C00018,5CG0329TMP,HP G6,840 G6,Laptops,Deployed,iskandar_atan,Iskandar Bin Atan,Singapore Discovery Centre,HP,36,"February 03, 2021",,,Yes,Yes,4WG18AV,,32(2/2),500
+DCS,G10 (31),DNF-C00321,5CG3506P2H,HP G10,840 G10,Laptops,Deployed,remus_sng,Remus Sng Tee Kiat ,Singapore Discovery Centre,HP,36,"February 04, 2024",,,No,No,9E3Y7PT,11,16(1/2),500
+DCS,G10 (31),DNF-C00330,5CG3471FQL,HP G10,840 G10,Laptops,Deployed,nicole_soon,Nicole Cheryl Soon Hse Ting,Singapore Discovery Centre,HP,36,"April 09, 2024",192.168.1.139,28:C5:D2:86:D3:F5,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G8,N/A-16,5CG20870H8,HP G8,840 G8,Laptops,Deployed,joey_seah,Joey Seah,Singapore Discovery Centre,HP,36,"July 27, 2022",,,No,Yes,4K2L3PA,,16,500
+DCS,G8,N/A-17,5CG20870GT,HP G8,840 G8,Laptops,Deployed,jeslyn_low,Low Jie Ling Jeslyn,Singapore Discovery Centre,HP,36,"June 15, 2022",192.168.1.221,20:C1:9B:34:A6:70,Yes,Yes,4K2L3PA,,16,500
+DCS,G10 (31),DNF-C00336,5CG3471FQ2,HP G10,840 G10,Laptops,Deployed,weenie_wee,Weenie Wee,Singapore Discovery Centre,HP,36,"April 10, 2024",192.168.1.16,28:C5:D2:83:EE:1A,Yes,Yes,9E3Y7PT,,16(1/2),500
+DCS,G8,N/A-18,5CG2030Z4B,HP G8,840 G8,Laptops,Deployed,franco_goh,Franco Goh,Singapore Discovery Centre,HP,36,"December 18, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G8,N/A-19,5CG2030ZN7,HP G8,840 G8,Laptops,Deployed,sarafikha_nur,Nur Sarafikha Binte Mohammad Shahl,Singapore Discovery Centre,HP,36,"December 20, 2022",192.168.0.130,F0:B6:1E:88:9E:88,Yes,Yes,26D62AV,,16,500
+DCS,G8 (33),N/A-20,5CG2031253,HP G8,840 G8,Laptops,Deployed,chooijuen_chan,Chan Chooi Juen (Joelle),Singapore Discovery Centre,HP,36,"December 20, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G6,N/A-21,5CG02106YG,HP G6,840 G6,Laptops,Deployed,chloe_sng,Chloe Sng,Singapore Discovery Centre,HP,36,"May 26, 2020",,,No,No,4WG28AV,,16,500
+DCS,G10 (31),DNF-C00334,5CG3471FQ7,HP G10,840 G10,Laptops,Deployed,chloe_sng,Chloe Sng,Singapore Discovery Centre,HP,36,"April 09, 2024",192.168.1.53,28:C5:D2:86:B7:A8,Yes,Yes,9E3Y7PT,,16(1/2),500
+DCS,G5,*00000515*,5CG90100YR,HP G5,840 G5,Laptops,Deployed,norhayati_abdullah,Nor Hayati Bte Abdullah,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,Yes,2FA68AV,,8,500
+DCS,G6,N/A-22,5CG0329TMS,HP G6,840 G6,Laptops,Deployed,jillian_wang,Jillian Wang,Singapore Discovery Centre,HP,36,"August 19, 2020",,,No,Yes,4WG18AV,,16(2/2),500
+DCS,G8,DNF-C00033,5CG1324WQ7,HP G8,840 G8,Laptops,Deployed,yaodong_ho,Ho Yao Dong,Singapore Discovery Centre,HP,36,"March 10, 2022",,,No,Yes,19X36AV,,16(2/2),500
+DCS,G8,N/A-23,5CG20870H0,HP G8,840 G8,Laptops,Deployed,kathy_kong,Kathy Kong Qi Wei,Singapore Discovery Centre,HP,36,"April 03, 2022",,,Yes,Yes,4K2L3PA,,16,500
+DCS,G10 (31),DNF-C00319,5CG3471FQ3,HP G10,840 G10,Laptops,Deployed,wendy_chan,Wendy Chan Wei Ling,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G3,*00000477*,5CG70947SQ,HP G3,840 G3,Laptops,Deployed,huiwah_soo,Soo Hui Wah,Singapore Discovery Centre,HP,36,"August 02, 2014",,,No,No,P4F83PT,,16,500
+DCS,G10 (31),DNF-C00314,5CG3471FQM,HP G10,840 G10,Laptops,Deployed,huiwah_soo,Soo Hui Wah,Singapore Discovery Centre,HP,36,"April 10, 2024",192.168.1.155,28:C5:D2:86:D3:D7,Yes,Yes,9E3Y7PT,,16(1/2),500
+DCS,G8,N/A-24,5CG2030YWJ,HP G8,840 G8,Laptops,Deployed,stella_clare_wee,Wee May Hua Stella Clare,Singapore Discovery Centre,HP,36,"December 19, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G8,DNF-C00302,5CG2030YVK,HP G8,840 G8,Laptops,Deployed,huihui_chan,Chan Hui Hui,Singapore Discovery Centre,HP,36,"December 13, 2022",192.168.1.80,F0:B6:1E:89:F6:89,No,Yes,26D62AV,,16,500
+DCS,G8 (33),DNF-C00284,5CG2030ZFZ,HP G8,840 G8,Laptops,Deployed,chinseang_lim,Lim Chin Seang,Singapore Discovery Centre,HP,36,"February 19, 2022",192.168.1.81,F0:B6:1E:88:36:B9,Yes,Yes,4K2L3PA,,16(1/2),500
+DCS,G10 (31),DNF-C00337,5CG3471FQ8,HP G10,840 G10,Laptops,Deployed,yenling_lim,Lim Yen Ling,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,No,9E3Y7PT,11,16(1/2),500
+DCS,G6,N/A-25,5CG0106GPG,HP G6,840 G6,Laptops,Deployed,sebastian_ho,Sebastian Ho,Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,Yes,4WG28AV,,8,500
+DCS,G6,N/A-26,5CG0106GNW,HP G6,840 G6,Laptops,Deployed,greensafe_vendor,Greensafe (Vendor),Singapore Discovery Centre,HP,36,"March 23, 2020",,,No,No,4WG28AV,,8,500
+DCS,G8 (33),N/A-27,5CG2030WGG,HP G8,840 G8,Laptops,Deployed,doreen_kang,Doreen Kang Li Lin,Singapore Discovery Centre,HP,36,"December 15, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G8,N/A-28,5CG2030YWM,HP G8,840 G8,Laptops,Deployed,katherine_kerk,Katherine kerk,Singapore Discovery Centre,HP,36,"December 20, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G6,DNF-C00055,5CG0092H15,HP G6,840 G6,Laptops,Deployed,mariam_masor,Mariam Bte Masor,Singapore Discovery Centre,HP,36,"March 17, 2020",192.168.1.152, 80:32:53:C7:93:A9,No,Yes,4WG28AV,,8,500
+DCS,G10 (31),DNF-C00344,5CG3471FQH,HP G10,840 G10,Laptops,Deployed,mohammed_rosman,Rosman Bin Mohammed Noor,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G10 (31),DNF-C00328,5CG3471FQ6,HP G10,840 G10,Laptops,Deployed,michelle_lee,Michelle Lee Jia Xin,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G1,N/A-29,BCAK3102CFE2J0CIRF / CNU412B53Y,HP G1,820 G1,Laptops,Deployed,muhammad_helfie,Muhammad Helfie Bin Mohamed Taib,Singapore Discovery Centre,HP,36,"March 19, 2015",,,No,No,E7M92PA,,,
+DCS,G8,DNF-C00297,5CG2030YWD,HP G8,840 G8,Laptops,Deployed,muhammad_helfie,Muhammad Helfie Bin Mohamed Taib,Singapore Discovery Centre,HP,36,"December 18, 2022",,,No,Yes,26D62AV,,8,500
+DCS,G6,N/A-30,5CG0106GNX,HP G6,840 G6,Laptops,Deployed,md_yuzaimi,Md Yuzaimi Bin Hassan,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,8,500
+DCS,G6,N/A-31,5CG0329TMX,HP G6,840 G6,Laptops,Deployed,muhammad_daniaal,Muhammad Daniaal Bin Mohd Amin,Singapore Discovery Centre,HP,36,"November 30, 2020",,,No,Yes,4WG18AV,,16,500
+DCS,G6,DNF-C00011,5CG0106GNN,HP G6,840 G6,Laptops,Deployed,jowis_tan,Tan Jowis,Singapore Discovery Centre,HP,36,"May 07, 2020",192.168.1.239,84:C5:A6:2C:41:4C,Yes,Yes,4WG28AV,,16,500
+DCS,G8,N/A-32,5CG2030YV6,HP G6,840 G8,Laptops,Deployed,hsiaofeng_ng,Ng Hsiao Feng,Singapore Discovery Centre,HP,36,"December 12, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G6,DNF-C00025,5CG0106GP1,HP G6,840 G6,Laptops,Deployed,kenneth_ong,Kenneth Ong,Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,Yes,4WG28AV,,8,500
+DCS,G6,DNF-C00022,5CG0106GP3,HP G6,840 G6,Laptops,Deployed,juliana_mohdramdan,Juliana Bte Mohd Ramdan,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,8,500
+DCS,G6,DNF-C00049,5CG0106GNV,HP G6,840 G6,Laptops,Deployed,suria_ram,Suria Binte Abdul Wahid,Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,Yes,4WG28AV,,8,500
+DCS,G6,N/A-33,5CG02106YH,HP G6,840 G6,Laptops,Deployed,xingni_tan,Tan Xing Ni,Singapore Discovery Centre,HP,36,"May 26, 2020",,,Yes,Yes,4WG28AV,,8,500
+DCS,G6,N/A-34,5CG02106YJ,HP G6,840 G6,Laptops,Deployed,,Ticketing,Singapore Discovery Centre,HP,36,"October 21, 2020",192.168.0.147,E4:5E:37:8C:9C:CC,No,No, 4WG28AV,10,8,500
+DCS,G6,N/A-35,5CG0106GNQ,HP G6,840 G6,Laptops,Deployed,,"Ticketing Training - Under Juliana, used by Keith",Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,No,4WG28AV,,8,500
+DCS,G6,DNF-C00014,5CG0106GPD,HP G6,840 G6,Laptops,Deployed,vicknan_vijaya,Vicknan Vijaya,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,8,500
+DCS,G8,DNF-C00032,5CG1324WQ8,HP G8,840 G8,Laptops,Deployed,jerrica_seah,Jerrica Seah Ming Hui,Singapore Discovery Centre,HP,36,"March 14, 2022",,,No,Yes,19X36AV,,8,500
+DCS,G4,*00000494*,5CG7523T86,HP G4,840 G4,Laptops,Deployed,javier_peh,Javier Peh Thong Kiat,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,Yes,1PM67PA,,,
+DCS,G5,N/A-36,5CG90100XT,HP G5,840 G5,Laptops,Deployed,jennifer_tan,Jennifer tan,Singapore Discovery Centre,HP,36,"January 10, 2019",,,Yes,Yes,2FA68AV,,8,500
+DCS,G8 (33),DNF-C00305,5CG2030YWF,HP G8,840 G8,Laptops,Deployed,erwin_ishak,Erwin Ishak,Singapore Discovery Centre,HP,36,"March 20, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G4,*00000510*,5CG7523T95,HP G4,840 G4,Laptops,Deployed,erwin_ishak,Erwin Ishak,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,No,1PM67PA,,,
+DCS,G3,N/A-37,5CG6295WCJ,HP G3,840 G3,Laptops,Deployed,erwin_ishak,Erwin Ishak,Singapore Discovery Centre,HP,36,"September 22, 2016",,,No,No,P4F83PT,,,
+DCS,G6,DNF-C00027,5CG0106GP0,HP G6,840 G6,Laptops,Deployed,fatin_arthira,Fatin,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,16,500
+DCS,G6,DNF-C00004,5CG0106GP9,HP G6,840 G6,Laptops,Deployed,ravinderrpal,Ravinderrpal,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,8,500
+DCS,G6,DNF-C00007,5CG0106GP7,HP G6,840 G6,Laptops,Deployed,herbert_lim,Herbert Lim,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,8,500
+DCS,G8,*00002256*,5CG20870GW,HP G8,840 G8,Laptops,Deployed,zhengxun_wong,Wong Zheng Xun,Singapore Discovery Centre,HP,36,"April 28, 2022",,,Yes,Yes,4K2L3PA,,16(1/2),500
+DCS,G8 (33),N/A-38,5CG2030YVM,HP G8,840 G8,Laptops,Deployed,nathiya_balaiya,Nathiya Balaiya,Singapore Discovery Centre,HP,36,"December 18, 2022",,,No,Yes,26D62AV,11,16,500
+DCS,G3,*00000473*,5CG70947RH,HP G3,840 G3,Laptops,Deployed,changuan_ho,Ho Chan Guan,Singapore Discovery Centre,HP,36,"May 04, 2017",,,No,No,P4F83PT,,,
+DCS,G10 (31),DNF-C00317,5CG3471FPV,HP G10,840 G10,Laptops,Deployed,changuan_ho,Ho Chan Guan,Singapore Discovery Centre,HP,36,"March 10, 2024",,,No,Yes,9E3Y7PT,11,16,500
+DCS,G7,DNF-C00036,5CG0270VW4,HP G7,840 G7,Laptops,Deployed,esmonde_how,Esmonde How,Singapore Discovery Centre,HP,36,"April 14, 2021",192.168.0.170,F8:AC:65:A1:DC:F9,Yes,Yes,8PZ97AV,,32(2/2),500
+a,G6,DNF-C00028,5CG02106YP,HP G6,840 G6,Laptops,Deployed,adam_ho,Adam Ho,Singapore Discovery Centre,HP,36,"May 26, 2020",,,Yes,Yes,4WG28AV,,24,500
+DCS,G6,DNF-C00029,5CG0106GNZ,HP G6,840 G6,Laptops,Deployed,freddy_ng,Ng Cong Fa Freddy,Singapore Discovery Centre,HP,36,"May 07, 2020",,,Yes,Yes,4WG28AV,,16,500
+DCS,G10 (31),DNF-C00342,5CG3471FQF,HP G10,840 G10,Laptops,Deployed,nurazhar_muhammad,Azhar,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.0.143,28:C5:D2:86:B7:BC,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G8,DNF-C00282,5CG2030YW5,HP G8,840 G8,Laptops,Deployed,geethika_mathu,Mathukumilli Geethika,Singapore Discovery Centre,HP,36,"December 19, 2022",,,No,No,26D62AV,,16,500
+DCS,G8,N/A-39,5CG20870HC,HP G8,840 G8,Laptops,Deployed,rosedini_abdulrahim,Rosedini,Singapore Discovery Centre,HP,36,"July 28, 2022",,,No,Yes,4K2L3PA,,16,500
+DCS,G3,*00000468*,5CG64954GR,HP G3,840 G3,Laptops,Deployed,saurie_ram,Saurie Ram,Singapore Discovery Centre,HP,36,"January 10, 2017",,,No,Yes,P4F83PT,,8,500
+DCS,G6,DNF-C00030,5CG0106GNR,HP G6,840 G6,Laptops,Deployed,roger_seow,Roger,Singapore Discovery Centre,HP,36,"March 23, 2020",,,No,Yes,4WG28AV,,8,500
+DCS,G8 (33),N/A-40,5CG2030WRJ,HP G8,840 G8,Laptops,Deployed,james_wan,James Wan,Singapore Discovery Centre,HP,36,"December 18, 2022",,,No,Yes,26D62AV,11,16,500
+DCS,G6,DNF-C00052,5CG0092H14,HP G6,840 G6,Laptops,Deployed,chinbok_ong,Ong Chin Bok,Singapore Discovery Centre,HP,36,"March 17, 2020",,,No,Yes,4WG28AV,,8,500
+DCS,G7,DNF-C00037,5CG0270VVR,HP G7,840 G7,Laptops,Deployed,pravabathi_bala,Prabavathi Balakrishnan,Singapore Discovery Centre,HP,36,"April 14, 2021",192.168.1.193,F8:AC:65:A1:D5:9C,Yes,Yes,8PZ97AV,,16,500
+DCS,G10 (31),DNF-C00340,5CG3506P2L,HP G10,840 G10,Laptops,Deployed,faizal_muhammad,Muhammad Faizal Bin Esa,Singapore Discovery Centre,HP,36,"February 04, 2024",,,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G8 (33),N/A-41,5CG2030XJ2,HP G8,840 G8,Laptops,Deployed,leanne_wong,Leanne Wong,Singapore Discovery Centre,HP,36,"December 20, 2022",,,No,No,26D62AV,11,16,500
+DCS,G7,DNF-C00039,5CG0270VVF,HP G7,840 G7,Laptops,Deployed,peiwen_lim,Lim Pei Wen,Singapore Discovery Centre,HP,36,"April 26, 2021",,,No,No,8PZ97AV,,32,500
+DCS,G10 (31),DNF-C00332,5CG3471FPZ,HP G10,840 G10,Laptops,Deployed,juayboon_koh,Koh Juay Boon,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,No,9E3Y7PT,11,16(1/2),500
+DCS,G10 (31),DNF-C00338,5CG3471FQ1,HP G10,840 G10,Laptops,Deployed,bernard_lam,Bernard,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.1.139,D0:AD:08:84:A2:08,Yes,No,9E3Y7PT,11,16(1/2),500
+DCS,G10 (31),DNF-C00326,5CG3471FQP,HP G10,840 G10,Laptops,Deployed,hanafi_muhammad,Hanafi,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,No,9E3Y7PT,11,16(1/2),500
+DCS,G10 (31),DNF-C00343,5CG3471FQB,HP G10,840 G10,Laptops,Deployed,luqmaanul_hakeem,Luqmaanul Hakeem Bin Arrifin,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,No,9E3Y7PT,11,16(1/2),500
+DCS,G8,N/A-42,5CG2030YWP,HP G8,840 G8,Laptops,Deployed,luqmaanul_hakeem,Luqmaanul Hakeem Bin Arrifin,Singapore Discovery Centre,HP,36,"December 20, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G6,N/A-43,5CG0329TMM,HP G6,840 G6,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"August 20, 2020",,,No,No,4WG18AV,,,
+DCS,G6,N/A-44,5CG02106YQ,HP G6,840 G6,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"May 26, 2020",,,No,No,4WG28AV,,,
+DCS,G4,N/A-45,5CG7523T8P,HP G4,840 G4,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,No,1PM67PA,,,
+DCS,G3,N/A-46,5CG70947S1,HP G3,840 G3,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"May 04, 2017",,,No,No,P4F83PT,,,
+DCS,G6,N/A-47,5CG0106GNY,HP G6,840 G6,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,No,4WG28AV,,,
+DCS,G6,N/A-48,5CG0106GPB,HP G6,840 G6,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"March 23, 2020",,,No,No, 4WG28AV,,,
+DCS,G6,DNF-C00274,5CG0329TMN,HP G6,840 G6,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"November 12, 2020",,,No,No,4WG18AV,11,8(1/2),500
+DCS,G3,N/A-49,5CG70947NB,HP G3,840 G3,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"May 04, 2017",,,No,No,P4F83PT,,,
+DCS,G5,*00000511*,5CG90100XP,HP G5,840 G5,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,,
+DCS,G8,N/A-50,5CG203119H,HP G8,840 G8,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"December 18, 2022",,,No,No,26D62AV,,,
+DCS,G6,DNF-C00154,5CG02106YL,HP G6,840 G6,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"May 26, 2020",,,No,No,4WG28AV,,,
+DCS,G6,DNF-C00313,5CG0106GP6,HP G6,840 G6,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"March 23, 2020",,,No,No,4WG28AV,,,
+DCS,G5,*00000525*,5CG9010028,HP G5,840 G5,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"March 04, 2019",,,No,No,2FA66AV,,,
+DCS,G6,DNF-C00040,5CG0329TMW,HP G6,840 G6,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"November 24, 2020",,,No,No,4WG18AV,,,
+DCS,G7,DNF-C00038,5CG0270VW2,HP G7,840 G7,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"April 25, 2021",,,No,No,8PZ97AV,11,0(0/0),
+DCS,G8,DNF-C00035,5CG1324WQ5,HP G8,840 G8,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"September 07, 2021",,,No,No,19X36AV,,8(1/2),500
+DCS,G5,N/A-51,5CG90100X8,HP G5,840 G5,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,16(2/2),500
+DCS,G5,*00000526*,5CG90100Y9,HP G5,840 G5,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,8,500
+DCS,G5,N/A-52,5CG9010025,HP G5,840 G5,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"March 04, 2019",,,No,No,2FA66AV,,,
+DCS,G5,N/A-53,5CG90100YF,HP G5,840 G5,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,8,500
+DCS,G7,DNF-C00264,5CG0270VVB,HP G7,840 G7,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"May 13, 2021",192.168.1.196,F8:AC:65:9E:0B:A6 ,No,No,8PZ97AV,,0(0/0),500
+DCS,G3,*00000475*,5CG70947R1,HP G3,840 G3,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"May 04, 2017",,,No,No,P4F83PT,,,
+DCS,G4,*00000499*,5CG7372SH2,HP G4,840 G4,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,No,1PM67PA,,,
+DCS,G4,*00000508*,5CG7523T2W,HP G4,840 G4,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,No,1PM67PA,,,
+DCS,G4,*00000502*,5CG7372SFF,HP G4,840 G4,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,No,1PM67PA,,,
+DCS,G3,*00000469*,5CG64954J7,HP G3,840 G3,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"January 10, 2017",,,No,No,P4F83PT,,,
+DCS,G4,*00000497*,5CG7362H38,HP G3,840 G3,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,Yes,1PM67PA,,8,500
+DCS,G4,*00000501*,5CG7523T2C,HP G3,840 G3,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,Yes,1PM67PA,,8,500
+DCS,G5,*00000529*,5CG90100XK,HP G5,840 G5,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,,
+DCS,G3,*00000476*,5CG70947QH,HP G3,840 G3,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"May 04, 2017",,,No,No,P4F83PT,,,
+DCS,G5,*00000532*,5CG90100Z5,HP G5,840 G5,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"January 10, 2019",,,No,No,2FA68AV,,,
+DCS,G3,DNF-C00048,5CG7253C1J,HP G3,840 G3,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"August 22, 2017",,,No,No,P4F83PT,,,
+DCS,G4,*00000503*,5CG7523TB0,HP G4,840 G4,Laptops,For Adoption,,,Singapore Discovery Centre,HP,36,"February 25, 2018",,,No,No,1PM67PA,,,
+DCS,G10 (31),DNF-C00318,5CG3506P2C,HP G10,840 G10,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"February 04, 2024",,,No,No,9E3Y7PT,11,16(1/2),500
+DCS,Envy,N/A-54,CND2322KS9,HP Envy,Envy,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,,,,No,No,6L6C3PA#AB4,,,
+DCS,G10 (31),DNF-C00316,5CG3471FQ9,HP G10,840 G10,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"April 04, 2024",,,No,No,9E3Y7PT,11,16(1/2),500
+DCS,G6,DNF-C00010,5CG0106GNS,HP G6,840 G6,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"May 07, 2020",,,No,No,4WG28AV,,8,500
+DCS,G10 (31),DNF-C00325,5CG3471FQ0,HP G10,840 G10,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.0.63,D0:AD:08:82:D0:7D,No,No,9E3Y7PT,11,16(1/2),500
+DCS,G6,DNF-C00013,5CG0106GPF,HP G6,840 G6,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"May 07, 2020",192.168.1.42,84:C5:A6:2C:41:6F,Yes,Yes,4WG28AV,11,8 (1/2),500
+DCS,G6,DNF-C00053,5CG0329TMV,HP G6,840 G6,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"November 16, 2020",192.168.0.237,CC:D9:AC:D2:3D:09,No,Yes,4WG18AV,11,16(2/2),500
+DCS,G8 (33),N/A-55,5CG2030ZG6,HP G8,840 G8,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"December 19, 2022",,,No,Yes,26D62AV,,16,500
+DCS,G5,00000533,5CG90100YX,HP G5,840 G5,Laptops,Ready to Deploy,,,Singapore Discovery Centre,HP,36,"January 10, 2019",192.168.0.185,A0:A4:C5:53:E5:76,No,No, 2FA68AV,11,16(2/2),500
+DCS,G10 (31),DNF-C00333,5CG3471FPT,HP G10,840 G10,Laptops,Deployed,,,Singapore Discovery Centre,HP,36,"March 06, 2024",,,Yes,Yes,9E3Y7PT,11,16(1/2),500
+DCS,G10 (31),DNF-C00335,5CG3471FQK,HP G10,840 G10,Laptops,Reserved,,,Singapore Discovery Centre,HP,36,"March 06, 2024",192.168.0.218,28:C5:D2:83:FB:A3,No,No,9E3Y7PT,11,16(1/2),500
+DCS,G8 (33),DNF-C00285,5CG2030ZXN,HP G8,840 G8,Laptops,Reserved,,,Singapore Discovery Centre,HP,36,"March 20, 2022",,,No,No,26D62AV,11,16(1/2),500
+DCS,G8 (33),DNF-C00267,5CG0092H1F,HP G6,840 G6,Laptops,To Repair,,,Singapore Discovery Centre,HP,36,"March 18, 2020", ,,No,No,4WG28AV,11,8(1/2),500

@@ -112,7 +112,7 @@ class Asset extends Depreciable
         'rtd_location_id'   => ['nullable', 'exists:locations,id'],
         'purchase_date'     => ['nullable', 'date', 'date_format:Y-m-d'],
         'serial'            => ['nullable', 'unique_undeleted:assets,serial'],
-        'purchase_cost'     => ['nullable', 'numeric', 'gte:0'],
+        'purchase_cost'     => ['nullable', 'numeric', 'gte:0', 'max:9999999999999'],
         'supplier_id'       => ['nullable', 'exists:suppliers,id'],
         'asset_eol_date'    => ['nullable', 'date'],
         'eol_explicit'      => ['nullable', 'boolean'],
@@ -930,9 +930,20 @@ class Asset extends Depreciable
      * */
     public function checkInvalidNextAuditDate()
     {
-        if (($this->last_audit_date) && ($this->next_audit_date) && ($this->last_audit_date > $this->next_audit_date)) {
+
+        // Deliberately parse the dates as Y-m-d (without H:i:s) to compare them
+        if ($this->last_audit_date) {
+            $last = Carbon::parse($this->last_audit_date)->format('Y-m-d');
+        }
+
+        if ($this->next_audit_date) {
+            $next = Carbon::parse($this->next_audit_date)->format('Y-m-d');
+        }
+
+        if ((isset($last) && (isset($next))) && ($last > $next)) {
             return true;
         }
+
         return false;
     }
 
